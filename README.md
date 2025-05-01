@@ -124,7 +124,7 @@ Inspired by real-world web security practices and the need for accessible vulner
 - 💼 LinkedIn: [linkedin.com/in/senukdias](https://linkedin.com/in/senukdias)
 - 🐦 Twitter/X: [@senukdias](https://twitter.com/senukdias)
 - 💻 GitHub: [github.com/senukdias](https://github.com/senukdias)
-- 📸 Instagram: [@senuk.dias](https://instagram.com/senuk.dias)
+- 📸 Instagram: [@senuk.dias](https://instagram.com/senukdias)
 
 ---
 
